@@ -1,0 +1,29 @@
+<ROWS>
+    <NewTag xmlns="testing">
+        <md:Date>2016-10-30</md:Date>
+        <md:Creator>USER_1</md:Creator>
+        <Station ngr="123456" region="North East">
+            <SetofValues dataType="Total" period="15 min">
+                <Value VALUE="3.509" time="05:30:00"></Value>
+            </SetofValues>
+        </Station>
+    </NewTag>
+    <NewTag xmlns="testing">
+        <md:Date>2016-10-30</md:Date>
+        <md:Creator>USER_1</md:Creator>
+        <Station ngr="123456" region="North East">
+            <SetofValues dataType="Total" period="15 min">
+                <Value VALUE="2.6" time="05:45:00"></Value>
+            </SetofValues>
+        </Station>
+    </NewTag>
+    <NewTag xmlns="testing">
+        <md:Date>2016-10-30</md:Date>
+        <md:Creator>USER_1</md:Creator>
+        <Station ngr="123456" region="North East">
+            <SetofValues dataType="Total" period="15 min">
+                <Value VALUE="1.111" time="06:00:00"></Value>
+            </SetofValues>
+        </Station>
+    </NewTag>
+</ROWS>
